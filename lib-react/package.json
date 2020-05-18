@@ -1,0 +1,27 @@
+{
+	"name": "@kara/react-basic",
+	"version": "1.0.0",
+	"description": "A starter to create libraries with react and ts",
+	"main": "lib/index.js",
+	"types": "lib/index.d.ts",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "npx tsc -p ."
+	},
+	"keywords": [
+		"react",
+		"typescript",
+		"npm",
+		"@kara"
+	],
+	"author": "yandre13 <yandre13.elsf@gmail.com>",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/react": "^16.9.35",
+		"react": "^16.13.1",
+		"typescript": "^3.9.2"
+	},
+	"peerDependencies": {
+		"react": ">=16.13.1"
+	}
+}
