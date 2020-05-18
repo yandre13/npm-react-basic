@@ -1,5 +1,5 @@
 {
-	"name": "@kara/react-basic",
+	"name": "@2kara/react-basic",
 	"version": "1.0.0",
 	"description": "A starter to create libraries with react and ts",
 	"main": "lib/index.js",
